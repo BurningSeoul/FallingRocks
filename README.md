@@ -1,5 +1,5 @@
 # iDream Of Rocks	
-Click on rocks before they hit the lava, every 100 points will restore 1 HP! Game created for iDream Interactive.
+Click on rocks before they hit the lava, every 100 points will restore 1 HP! Game created as a technical test for             iDream Interactive.
 
 Extra features:
 1. Progressive Difficulty
